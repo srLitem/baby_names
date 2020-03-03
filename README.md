@@ -1,6 +1,6 @@
 # baby_names
 
-A new Flutter project.
+A simple application built to learn and test Firebase with Flutter. This has been done following a [Google Codelab](https://codelabs.developers.google.com/codelabs/flutter-firebase/#0).
 
 ## Getting Started
 
